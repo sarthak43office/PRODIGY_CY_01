@@ -22,3 +22,4 @@ Would you like to (E)ncrypt or (D)ecrypt? d
 Enter your message: wevxleo texip
 Enter the shift value (integer): 4
 Decrypted message: sarthak patel
+--------------------------------------------
